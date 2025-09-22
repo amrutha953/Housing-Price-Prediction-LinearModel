@@ -1,12 +1,5 @@
 # %%
 
-
-
-
-# %%
-
-
-# %%
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -68,6 +61,7 @@ if X_selected.shape[1] == 1:
     plt.title("Linear Regression - Housing Prices")
     plt.legend()
     plt.show()
+
 
 
 
